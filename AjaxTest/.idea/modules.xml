@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProvinceQuery/ProvinceQuery.iml" filepath="$PROJECT_DIR$/ProvinceQuery/ProvinceQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../jQueryTest/ProvinceQuery-jQuery/ProvinceQuery-jQuery.iml" filepath="$PROJECT_DIR$/../jQueryTest/ProvinceQuery-jQuery/ProvinceQuery-jQuery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ch-01-BMI-Ajax/ch-01-BMI-Ajax.iml" filepath="$PROJECT_DIR$/ch-01-BMI-Ajax/ch-01-BMI-Ajax.iml" />
+    </modules>
+  </component>
+</project>
